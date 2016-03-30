@@ -1,0 +1,22 @@
+textarea{
+    display: block;
+}
+
+div{
+    margin: 0 25%;
+}
+
+legend{
+    font-weight: bolder;
+    box-shadow: 25px 0 0 0 #000, -5px 0 0 0 #000;
+	background: #000;
+	
+
+	position: relative;
+    color: whitesmoke;
+    font-size: 50 px;   
+}
+
+fieldset{
+    background-color: aqua;
+}
